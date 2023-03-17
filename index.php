@@ -49,7 +49,7 @@
 
 <div class="content">
 
-<h1><a class="title-head" href="index.html" title="Live Draw HK">Live Draw HK</a></h1>
+<h1><a class="title-head" href="https://angkahokiads.github.io/amor/" title="Live Draw HK">Live Draw HK</a></h1>
 
 <p><b>Live Draw HK</b> merupakan situs yang melakukan putaran angka hk pools dimana hasil keluaran di ambil langsung dari hongkongpools. Result yang keluar dipastikan yang tercepat dan anda tidak akan menemukan keleletan atau buffering. Tampilan yang kami berikan juga sangat powerfull dan responsive jadi kamu dapat melihat dengan sangat jelas jika membuka menggunakan smartphone.</p>
 
@@ -99,7 +99,7 @@ echo $text1 = str_replace('http://159.223.39.75/hongkong.php', 'https://angkahok
 <li>HK Prize Live</li>
 <li>Live Draw Bullseye</li>
 <li>Live Draw China</li>
-<li><a href="http://165.22.101.51/" target="_blank" title="Live Draw SDY">Live Draw SDY</a></li>
+<li><a href="http://hotelkampong.eu.org/" target="_blank" title="Paito SDY">Paito SDY</a></li>
 </ul>
 
 <h2 style="margin-top: 20px;"><a class="title-head" href="https://angkahokiads.github.io/amor/" title="Result Keluaran HK">Result Keluaran HK</a></h2>
