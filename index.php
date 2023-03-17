@@ -19,9 +19,9 @@
 
 <script>
  $(document).ready(function() {
-     $(".hk").load("hongkong.html");
+     $(".hk").load("hongkong.php");
    var refreshId = setInterval(function() {
-      $(".hk").load('hongkong42bd.html?randval='+ Math.random());
+      $(".hk").load('hongkong42bd.php?randval='+ Math.random());
    }, 20000);
    $.ajaxSetup({ cache: false });
 });
