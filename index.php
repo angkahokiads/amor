@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="id-ID">
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<meta http-equiv="content-type" content="text/php;charset=UTF-8" />
 <head>
 <title>Live Draw HK - Live HK Pools - Live Result HK - Live Hongkong Pools</title>
 <meta name="description"  content="Live Draw HK - Live HK Pools - Live Result HK - Live Hongkong Pools Situs pengeluaran togel hongkong dan live draw hongkong dengan pengeluaran hk tercepat hari ini." />
@@ -10,7 +10,7 @@
 <meta property="og:url" content="https://angkahokiads.github.io/amor/" />
 <meta property="og:site_name" content="Live Draw HK - Live HK Pools - Live Result HK - Live Hongkong Pools" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="google-site-verification" content="" />
+<meta name="google-site-verification" content="tA4C8kmhtlg4Fw5i0mAwfrKjGkyQYVZ-8__Xb_gRSew" />
 <link rel="stylesheet" href="css/style.css" />
 <link rel="icon" href="/favicon.png" sizes="32x32" />
 <link rel="apple-touch-icon-precomposed" href="/favicon.png" />
