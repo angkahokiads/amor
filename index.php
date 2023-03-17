@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="id-ID">
-<meta http-equiv="content-type" content="text/php;charset=UTF-8" />
 <head>
 <title>Live Draw HK - Live HK Pools - Live Result HK - Live Hongkong Pools</title>
 <meta name="description"  content="Live Draw HK - Live HK Pools - Live Result HK - Live Hongkong Pools Situs pengeluaran togel hongkong dan live draw hongkong dengan pengeluaran hk tercepat hari ini." />
@@ -64,7 +63,7 @@
 <div class="hk"> <table class="tablelive">
 <?php
 // URL TARGET
-$url = 'http://159.223.39.75/hongkong.php';
+$url = 'http://159.223.39.75/hongkong.php?randval=';
 //end
 // get / mengambil content berdasarkan url yang akan di curi datanya
 $content = file_get_contents($url);
@@ -78,7 +77,7 @@ $second_step = explode("</table>" , $first_step[1] );
 // Replace syntax </tbody> dengan </tbody></table>
 $text1 = $second_step[0];
 //Tampilkan 
-echo $text1 = str_replace('http://159.223.39.75/hongkong.php', 'https://angkahokiads.github.io/amor/', $second_step[0]);
+echo $text1 = str_replace('http://159.223.39.75/hongkong.php?randval=', 'https://angkahokiads.github.io/amor/', $second_step[0]);
 ?>
 </table>
 </div></div>
