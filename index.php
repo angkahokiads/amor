@@ -12,8 +12,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="google-site-verification" content="tA4C8kmhtlg4Fw5i0mAwfrKjGkyQYVZ-8__Xb_gRSew" />
 <link rel="stylesheet" href="css/style.css" />
-<link rel="icon" href="/favicon.png" sizes="32x32" />
-<link rel="apple-touch-icon-precomposed" href="/favicon.png" />
+<link rel="icon" href="img/favicon.png" sizes="32x32" />
+<link rel="apple-touch-icon-precomposed" href="img/favicon.png" />
 <link href="https://fonts.googleapis.com/css?family=Oswald&amp;display=swap" rel="stylesheet">
 <script src="../ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
