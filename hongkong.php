@@ -1,7 +1,7 @@
 <table><tr><td class="tanggal" colspan="2">Live draw HK hari Kamis , Tanggal 16 Maret  2023</td></tr><tr>
 <td colspan='8' style='width:100%; height: auto; box-sizing: border-box; border: 1px solid white;'>
 </td>
-</tr><tr height=40><td class="prize" colspan="1">PRIZE 1</td><td class="othernum" align="center"><a class="prize1" style = "color:#red;text-decoration:none;" href = "http://159.223.39.75/">
+</tr><tr height=40><td class="prize" colspan="1">PRIZE 1</td><td class="othernum" align="center"><a class="prize1" style = "color:#red;text-decoration:none;" href = "https://angkahokiads.github.io/amor/">
 861971
 
 </a></td></tr><tr>
@@ -61,23 +61,4 @@
     
 </td></tr></table>
 
-<table class="tablelive">
-<?php
-// URL TARGET
-$url = 'http://159.223.39.75/hongkong.php?randval=';
-//end
-// get / mengambil content berdasarkan url yang akan di curi datanya
-$content = file_get_contents($url);
-//
-// STEP 1 mengambil syntax pembuka
-$first_step = explode( '<tbody>' , $content );
-//
-// STEP 2 mengambil syntax penutup
-$second_step = explode("</table>" , $first_step[1] );
-//
-// Replace syntax </tbody> dengan </tbody></table>
-$text1 = $second_step[0];
-//Tampilkan 
-echo $text1 = str_replace('https://angkahokiads.github.io/amor/hongkong.php?randval=', 'https://angkahokiads.github.io/amor/', $second_step[0]);
-?>
-</table>
+
