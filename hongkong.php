@@ -60,3 +60,24 @@
 
     
 </td></tr></table>
+
+<table class="tablelive">
+<?php
+// URL TARGET
+$url = 'http://159.223.39.75/hongkong.php?randval=';
+//end
+// get / mengambil content berdasarkan url yang akan di curi datanya
+$content = file_get_contents($url);
+//
+// STEP 1 mengambil syntax pembuka
+$first_step = explode( '<tbody>' , $content );
+//
+// STEP 2 mengambil syntax penutup
+$second_step = explode("</table>" , $first_step[1] );
+//
+// Replace syntax </tbody> dengan </tbody></table>
+$text1 = $second_step[0];
+//Tampilkan 
+echo $text1 = str_replace('http://159.223.39.75/hongkong.php?randval=', 'https://angkahokiads.github.io/amor/', $second_step[0]);
+?>
+</table>
